@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UrabeM
-- 👀 I’m interested in Coding and specially python
-- 🌱 I’m currently learning python
+- 👋 Hey, I’m @UrabeM
+- 👀 I’m interested in Programming specially backend devoloping.
+- 🌱 I’m currently learning python, Bash, Ruby
 - 📫 You can reach me through 
-      1. discord  - Urabe Mikoto#0728
+      1. discord  - @M_Urabe#0728
       2. telegram - @I_Yuji
 
 <!---
