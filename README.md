@@ -3,7 +3,7 @@
 Welcome to my profile! I'm a passionate developer with over 3.5 years of experience in programming. I specialize in a variety of areas, and I'm excited to share my journey and expertise with you.
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <a href="https://www.upwork.com/freelancers/safkia" style="text-decoration: unset;">
+  <a href="https://www.upwork.com/freelancers/safki" style="text-decoration: unset;">
     <img src="images/upwork-2.svg" alt="Upwork" width="50" height="60">
   </a>
   <a href="https://t.me/dhextras_ai" style="text-decoration: unset;">
