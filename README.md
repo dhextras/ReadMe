@@ -3,13 +3,13 @@
 Welcome to my profile! I'm a passionate developer with over 3.5 years of experience in programming. I specialize in a variety of areas, and I'm excited to share my journey and expertise with you.
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <a href="https://www.upwork.com/freelancers/safkia">
+  <a href="https://www.upwork.com/freelancers/safkia" style="text-decoration: unset;">
     <img src="images/upwork-2.svg" alt="Upwork" width="50" height="60">
   </a>
-  <a href="https://t.me/dhextras_ai">
+  <a href="https://t.me/dhextras_ai" style="text-decoration: unset;">
     <img src="images/telegram.svg" alt="Telegram" width="40" height="60">
   </a>
-  <a href="mailto:mohammedsafki27+githubProfile@gmail.com">
+  <a href="mailto:mohammedsafki27+githubProfile@gmail.com" style="text-decoration: unset;">
     <img src="images/mail.svg" alt="Email" width="60" height="60" style="padding-top: 0px;">
   </a>
 </p>
