@@ -68,6 +68,6 @@ Here are some of the biggest projects I've worked on in terms of financial impac
 ![Jira](images/jira.png)![Confluence](images/sync-to-confluence.png)
 - Solana token finder and buyer (CLI tool with a single executable for Windows)
 ![Solana CLI](images/svt.png)
-- Fixed/updated numerous programs similar to yours
+- Fixed/updated numerous programs with new features and bugs.
 
 > **_I think that covers it. Honestly, the skill I'm most proud of is my ability to learn new things on the project and deliver in a timely and efficient manner. As long as the client provides a starting point, I will go all the way to solve their problem._**
