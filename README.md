@@ -52,7 +52,7 @@ Here are some of the biggest projects I've worked on in terms of financial impac
 
 **_The following projects still have a few updates pending. Since they were personal projects, I got busy and left them as they are. Everything is on my [GitHub](https://github.com/dhextras), feel free to check them out._**
 
-- A group chat with basic functionalities (created to show off to my sister LOL) - [Group Chat](https://dhextras-chat.glitch.me/) (users can join using the same room ID, try using `Kyle-Test` for room ID, just made one for you.)
+- A group chat with basic functionalities (created to show off to my sister LOL) - [Group Chat](https://dhextras-chat.glitch.me/) (users can join using the same room ID, try using `Kyle-Test` for room ID.)
 ![Group Chat](images/group-chat.png)
 - A cool-looking file visualizer - [File Visualizer](https://file-viz.glitch.me/) (try it out in desktop Chrome)
 ![File Viz](images/file-viz.png)
