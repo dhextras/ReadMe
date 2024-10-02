@@ -38,7 +38,7 @@ The languages I'm proficient in and proud of are:
 
 Here are some of the biggest projects I've worked on in terms of financial impact:
 
-- Building an account scraper for YouTube and TikTok based on a wide range of specific criteria 
+- Building an account scraper for YouTube and TikTok based on a wide range of specific criteria. [Source](https://github.com/dhextras/yt-tt-scraper), [V1 Hosted](https://dhextras-yt-search.glitch.me/)
 ![YouTube/TikTok Scraper - Web](images/yts-web.png) ![YouTube/TikTok Scraper Script](images/yts-script.png)
 - Developing [International Mental Health Olympiad](https://internationalmentalhealtholympiad.com/) (WordPress - you can check out the site) 
 ![IMHO Home](images/imho-1.png)
