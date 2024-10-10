@@ -16,7 +16,7 @@ Welcome to my profile! I'm a passionate developer with over 3.5 years of experie
 
 ## About Me
 
-I've been programming for over 3.5 years now. Most of my work revolves around:
+I've been programming for over 4 years now. Most of my work revolves around:
 
 - Web development (both pure code and no-code builders like WordPress and Funnelish)
 - Automations (both pure programming and no-code tools like Make and Zapier)
